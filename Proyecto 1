@@ -1,0 +1,6 @@
+/*hellow world program/
+#include <stdio.h>
+main()
+{
+printf(''hellow word'');
+}
